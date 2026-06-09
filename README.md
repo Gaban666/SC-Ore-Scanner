@@ -16,6 +16,21 @@ No installation is required. Extract the downloaded ZIP and run:
 
 Keep all included files and the `_internal` folder together.
 
+## How It Works
+
+SC Ore Scanner uses OCR to read a small, predefined section of your screen where
+the mining signature number appears.
+
+The application:
+
+- does not read or modify game memory
+- does not inject code or install hooks
+- does not access or modify game files
+- does not interact with network traffic
+- does not provide automation or control the game
+
+It only analyzes the visible pixels inside the configured screen area.
+
 ## Features
 
 - Identifies mining signatures displayed on the HUD
