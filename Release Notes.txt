@@ -1,0 +1,10 @@
+SC Ore Scanner 5.0.1
+
+UPDATER TEST RELEASE
+
+- Updated the application version to 5.0.1.
+- Added a test package for verifying the built-in updater.
+- No scanner, voice, price database or interface behaviour has been changed.
+
+This release is intended only to confirm that SC Ore Scanner 5.0.0 can detect,
+download and install an update successfully.
