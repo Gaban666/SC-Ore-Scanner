@@ -4,7 +4,7 @@ Mining signature identification assistant for Star Citizen
 SC Ore Scanner reads mining signature numbers displayed on your screen and
 identifies the detected ore, rarity and node count.
 
-![SC Ore Scanner](Main.jpg)
+![SC Ore Scanner](Main2.jpg)
 
 ## Download
 
